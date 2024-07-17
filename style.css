@@ -1,0 +1,75 @@
+
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(120deg,#1c03fc,#fc036b);
+  
+
+}
+.hero h2{
+    color: red;
+    text-align: center;
+    margin: 10px;
+    cursor: pointer;
+
+}
+h2:hover{
+    text-decoration: underline;
+
+   
+}
+table,tr,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 20px 80px;    
+}
+.first-set{
+    background-color: #1e73be;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.second-set{
+    background-color: #d48a23;
+    color: white;
+    cursor: pointer;
+}
+.third-set{
+    background-color: #3AA6CC;
+    color: white;
+    cursor: pointer;
+}
+.four-set{
+    background-color: rgb(29, 29, 186);
+    color: white;
+    cursor: pointer;
+}
+.five-set{
+    background-color: #5f6946;
+    color: white;
+    cursor: pointer;
+}
+.six-set{
+    background-color: rgb(74, 12, 12);
+    color: white;
+    cursor: pointer;
+}
+.seven-set{
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+}
+.eight-set{
+    background-color: rgb(0, 136, 255);
+    color: white;
+    cursor: pointer;
+}
+.nine-set{
+    background-color: rgb(188, 51, 188);
+    color: white;
+    cursor: pointer;
+}
